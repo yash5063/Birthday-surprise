@@ -1,0 +1,1 @@
+Put your MP3/OGG file in this folder, then update config.js -> music.src and set music.enabled = true.

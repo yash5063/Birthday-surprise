@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="45%" r="75%">
+      <stop offset="0" stop-color="#fff7d6"/>
+      <stop offset="0.55" stop-color="#ffddea"/>
+      <stop offset="1" stop-color="#dcd3ff"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <g opacity=".35" fill="#fff">
+    <circle cx="220" cy="180" r="65"/><circle cx="315" cy="150" r="35"/><circle cx="930" cy="735" r="90"/><circle cx="1030" cy="700" r="45"/>
+  </g>
+  <text x="600" y="420" text-anchor="middle" font-family="system-ui, sans-serif" font-size="62" font-weight="800" fill="#4b3d50">Friendship archive 💛</text>
+  <text x="600" y="495" text-anchor="middle" font-family="system-ui, sans-serif" font-size="31" fill="#75667b">your real photo will look much better here</text>
+  <text x="165" y="690" text-anchor="middle" font-family="system-ui" font-size="78" fill="#ffb64a">☀</text>
+  <text x="995" y="205" text-anchor="middle" font-family="system-ui" font-size="80" fill="#ff7fa8">♡</text>
+</svg>

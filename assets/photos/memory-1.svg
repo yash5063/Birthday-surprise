@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffdce9"/>
+      <stop offset="0.5" stop-color="#fff3c8"/>
+      <stop offset="1" stop-color="#e7dcff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <circle cx="170" cy="180" r="90" fill="#fff" fill-opacity=".45"/>
+  <circle cx="1000" cy="700" r="160" fill="#fff" fill-opacity=".35"/>
+  <path d="M230 650c120-130 230-120 330 0s240 120 390-20" fill="none" stroke="#ff8fb1" stroke-width="18" stroke-linecap="round" opacity=".45"/>
+  <text x="600" y="420" text-anchor="middle" font-family="system-ui, sans-serif" font-size="62" font-weight="800" fill="#4b3d50">Your photo here 📸</text>
+  <text x="600" y="495" text-anchor="middle" font-family="system-ui, sans-serif" font-size="31" fill="#75667b">replace this file or update config.js</text>
+  <text x="185" y="195" text-anchor="middle" font-family="system-ui" font-size="80" fill="#ff7fa8">✦</text>
+  <text x="970" y="215" text-anchor="middle" font-family="system-ui" font-size="74" fill="#9b8cff">♡</text>
+</svg>

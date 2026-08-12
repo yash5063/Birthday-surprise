@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e6efff"/>
+      <stop offset="0.52" stop-color="#f2e3ff"/>
+      <stop offset="1" stop-color="#ffe3ce"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <path d="M0 710c130-80 240-85 350-20s230 72 350 0 270-75 500 30v180H0z" fill="#fff" fill-opacity=".3"/>
+  <path d="M100 190l35 20 38-18-14 40 28 30-43 1-21 37-14-41-42-9 34-26z" fill="#ffd166" opacity=".45"/>
+  <text x="600" y="420" text-anchor="middle" font-family="system-ui, sans-serif" font-size="62" font-weight="800" fill="#4b3d50">Put the chaos here 😭</text>
+  <text x="600" y="495" text-anchor="middle" font-family="system-ui, sans-serif" font-size="31" fill="#75667b">the best photos are rarely the serious ones</text>
+  <text x="1010" y="180" text-anchor="middle" font-family="system-ui" font-size="80" fill="#9b8cff">✦</text>
+  <text x="220" y="735" text-anchor="middle" font-family="system-ui" font-size="80" fill="#ff7fa8">✿</text>
+</svg>
