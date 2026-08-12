@@ -10,9 +10,9 @@ window.BIRTHDAY_CONFIG = {
   faviconEmoji: "🎂",
 
   // Main person / sender
-  friendName: "Julia",
-  nickname: "Mimi",
-  senderName: "Your Friend",
+  friendName: "Yash",
+  nickname: "lalu",
+  senderName: "Khash Dost",
 
   // Opening screen
   intro: {
